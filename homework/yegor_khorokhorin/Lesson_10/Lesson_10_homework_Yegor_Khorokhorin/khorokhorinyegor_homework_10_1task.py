@@ -18,10 +18,9 @@ def example1():
 
 @finish
 def example2():
-    print(1+1)
+    print(1 + 1)
 
 
 example()
 example1()
 example2()
-
