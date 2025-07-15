@@ -21,7 +21,7 @@ class Rose(Flowers):
         result = (f"Цветок: {self.title}, цвет: {self.color}, длина стебля: {self.length_of_stem},"
                   f" время жизни: {self.time_of_life}дней, цена: {self.price}")
         return result
-        
+
 
 class Chamomile(Flowers):
     time_of_life = 2
