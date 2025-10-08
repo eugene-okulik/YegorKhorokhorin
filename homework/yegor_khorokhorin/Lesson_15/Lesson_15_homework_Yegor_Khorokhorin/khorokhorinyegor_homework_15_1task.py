@@ -10,27 +10,27 @@ db = mysql.connect(
 
 cursor = db.cursor(dictionary=True)
 
-cursor.execute("INSERT INTO students (name, second_name, group_id) VALUES ('YEGOR', 'Khor', 1)")
-student_id = cursor.lastrowid
-cursor.execute(f'SELECT * FROM students WHERE id = {student_id}')
-print(cursor.fetchone())
-
-
-cursor.execute("INSERT INTO books (title, taken_by_student_id) VALUES (%s, %s)", ('WHY?', student_id))
-book_1_id = cursor.lastrowid
-cursor.execute(f'SELECT* FROM books WHERE id = {book_1_id}')
-print(cursor.fetchone())
-
-cursor.execute("INSERT INTO books (title, taken_by_student_id) VALUES (%s, %s)", ('BECAUSE', student_id))
-book_2_id = cursor.lastrowid
-cursor.execute(f'SELECT* FROM books WHERE id = {book_2_id}')
-print(cursor.fetchone())
-
 
 cursor.execute("INSERT INTO `groups` (title, start_date, end_date) VALUES ('Yegor group', 'march 2025', 'sept 2025')")
 group_id = cursor.lastrowid
 cursor.execute(f'SELECT* FROM `groups` WHERE id = {group_id}')
 print(cursor.fetchone())
+
+cursor.execute("INSERT INTO students (name, second_name, group_id) VALUES (%s, %s, %s)",
+               ('YEGOR', 'Khor', group_id))
+student_id = cursor.lastrowid
+cursor.execute("SELECT * FROM students WHERE id = %s", (student_id,))
+print(cursor.fetchone())
+
+books_of_student = "INSERT INTO books (title, taken_by_student_id) VALUES (%s, %s)"
+cursor.executemany(
+    books_of_student, [
+        ('WHY?', student_id),
+        ('BECAUSE', student_id)
+    ]
+)
+cursor.execute("SELECT * FROM books WHERE taken_by_student_id = %s", (student_id,))
+print(cursor.fetchall())
 
 
 cursor.execute("INSERT INTO subjects (title) VALUES ('SUBJ for YEGOR')")
@@ -86,50 +86,18 @@ cursor.execute(f'SELECT* FROM lessons WHERE id = {lesson_2_for_subj3_id}')
 print(cursor.fetchone())
 
 
-cursor.execute("INSERT INTO marks (value, lesson_id, student_id) VALUES (%s, %s, %s)",
-               (5, lesson_1_for_subj_id, student_id))
-mark_for_lesson_1_for_subj_id = cursor.lastrowid
-cursor.execute(f'SELECT* FROM marks WHERE id = {mark_for_lesson_1_for_subj_id}')
-print(cursor.fetchone())
-
-cursor.execute("INSERT INTO marks (value, lesson_id, student_id) VALUES (%s, %s, %s)",
-               (4, lesson_2_for_subj_id, student_id))
-mark_for_lesson_2_for_subj_id = cursor.lastrowid
-cursor.execute(f'SELECT* FROM marks WHERE id = {mark_for_lesson_2_for_subj_id}')
-print(cursor.fetchone())
-
-cursor.execute("INSERT INTO marks (value, lesson_id, student_id) VALUES (%s, %s, %s)",
-               (3, lesson_1_for_subj2_id, student_id))
-mark_for_lesson_1_for_subj2_id = cursor.lastrowid
-cursor.execute(f'SELECT* FROM marks WHERE id = {mark_for_lesson_1_for_subj2_id}')
-print(cursor.fetchone())
-
-cursor.execute("INSERT INTO marks (value, lesson_id, student_id) VALUES (%s, %s, %s)",
-               (5, lesson_2_for_subj2_id, student_id))
-mark_for_lesson_2_for_subj2_id = cursor.lastrowid
-cursor.execute(f'SELECT* FROM marks WHERE id = {mark_for_lesson_2_for_subj2_id}')
-print(cursor.fetchone())
-
-
-cursor.execute("INSERT INTO marks (value, lesson_id, student_id) VALUES (%s, %s, %s)",
-               (4, lesson_1_for_subj3_id, student_id))
-mark_for_lesson_1_for_subj3_id = cursor.lastrowid
-cursor.execute(f'SELECT* FROM marks WHERE id = {mark_for_lesson_1_for_subj3_id}')
-print(cursor.fetchone())
-
-cursor.execute("INSERT INTO marks (value, lesson_id, student_id) VALUES (%s, %s, %s)",
-               (3, lesson_2_for_subj3_id, student_id))
-mark_for_lesson_2_for_subj3_id = cursor.lastrowid
-cursor.execute(f'SELECT* FROM marks WHERE id = {mark_for_lesson_2_for_subj3_id}')
-print(cursor.fetchone())
-
-
-marks_of_student = "SELECT * FROM marks WHERE student_id = %s"
-cursor.execute(marks_of_student, (student_id,))
-print(cursor.fetchall())
-
-books_of_student = "SELECT * FROM books WHERE taken_by_student_id = %s"
-cursor.execute(books_of_student, (student_id,))
+marks_of_student = "INSERT INTO marks (value, lesson_id, student_id) VALUES (%s, %s, %s)"
+cursor.executemany(
+    marks_of_student, [
+        (5, lesson_1_for_subj_id, student_id),
+        (4, lesson_2_for_subj_id, student_id),
+        (3, lesson_1_for_subj2_id, student_id),
+        (5, lesson_2_for_subj2_id, student_id),
+        (4, lesson_1_for_subj3_id, student_id),
+        (3, lesson_2_for_subj3_id, student_id)
+    ]
+)
+cursor.execute("SELECT * FROM marks WHERE student_id = %s", (student_id,))
 print(cursor.fetchall())
 
 
