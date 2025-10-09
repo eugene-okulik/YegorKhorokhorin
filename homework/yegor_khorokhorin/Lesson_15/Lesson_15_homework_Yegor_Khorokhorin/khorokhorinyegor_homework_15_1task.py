@@ -10,15 +10,19 @@ db = mysql.connect(
 
 cursor = db.cursor(dictionary=True)
 
+cursor.execute("INSERT INTO students (name, second_name) VALUES (%s, %s)",
+               ('YEGOR', 'Khor'))
+student_id = cursor.lastrowid
+cursor.execute("SELECT * FROM students WHERE id = %s", (student_id,))
+print(cursor.fetchone())
 
 cursor.execute("INSERT INTO `groups` (title, start_date, end_date) VALUES ('Yegor group', 'march 2025', 'sept 2025')")
 group_id = cursor.lastrowid
 cursor.execute(f'SELECT* FROM `groups` WHERE id = {group_id}')
 print(cursor.fetchone())
 
-cursor.execute("INSERT INTO students (name, second_name, group_id) VALUES (%s, %s, %s)",
-               ('YEGOR', 'Khor', group_id))
-student_id = cursor.lastrowid
+cursor.execute("UPDATE students SET group_id = %s WHERE id = %s",
+               (group_id, student_id))
 cursor.execute("SELECT * FROM students WHERE id = %s", (student_id,))
 print(cursor.fetchone())
 
