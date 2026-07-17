@@ -1,0 +1,1170 @@
+================================================================================
+File: ../../../eugene_okulik/data/logs/rpe-api-error.2022-02-03.0.log
+Found: 4
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 00:41:19
+Found line: 229
+Context:
+2022-02-03 00:41:19.256 [http-nio-8625-exec-8] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 00:48:47
+Found line: 537
+Context:
+2022-02-03 00:48:47.378 [http-nio-8625-exec-7] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 00:51:29
+Found line: 831
+Context:
+2022-02-03 00:51:29.616 [http-nio-8625-exec-3] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 00:56:31
+Found line: 1125
+Context:
+2022-02-03 00:56:31.321 [http-nio-8625-exec-5] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+================================================================================
+File: ../../../eugene_okulik/data/logs/rpe-api-error.2022-02-03.1.log
+Found: 77
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 01:05:40
+Found line: 7
+Context:
+2022-02-03 01:05:40.476 [http-nio-8625-exec-1] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 01:06:46
+Found line: 301
+Context:
+2022-02-03 01:06:46.477 [http-nio-8625-exec-2] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 01:16:32
+Found line: 649
+Context:
+2022-02-03 01:16:32.930 [http-nio-8625-exec-6] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 01:16:33
+Found line: 923
+Context:
+2022-02-03 01:16:33.009 [http-nio-8625-exec-6] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 01:31:33
+Found line: 984
+Context:
+2022-02-03 01:31:33.009 [http-nio-8625-exec-3] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 01:31:33
+Found line: 1286
+Context:
+2022-02-03 01:31:33.181 [http-nio-8625-exec-8] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 01:39:47
+Found line: 1293
+Context:
+2022-02-03 01:39:47.190 [http-nio-8625-exec-8] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 01:46:33
+Found line: 1641
+Context:
+2022-02-03 01:46:33.275 [http-nio-8625-exec-10] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 01:56:33
+Found line: 1975
+Context:
+2022-02-03 01:56:33.383 [http-nio-8625-exec-1] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 02:01:33
+Found line: 2281
+Context:
+2022-02-03 02:01:33.446 [http-nio-8625-exec-6] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 02:16:33
+Found line: 2643
+Context:
+2022-02-03 02:16:33.467 [http-nio-8625-exec-10] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 02:24:26
+Found line: 2945
+Context:
+2022-02-03 02:24:26.884 [http-nio-8625-exec-3] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 02:24:26
+Found line: 2946
+Context:
+2022-02-03 02:24:26.993 [http-nio-8625-exec-3] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 02:24:27
+Found line: 2947
+Context:
+2022-02-03 02:24:27.101 [http-nio-8625-exec-3] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 02:24:27
+Found line: 2948
+Context:
+2022-02-03 02:24:27.120 [http-nio-8625-exec-8] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 02:24:27
+Found line: 2949
+Context:
+2022-02-03 02:24:27.227 [http-nio-8625-exec-8] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 02:24:27
+Found line: 2950
+Context:
+2022-02-03 02:24:27.339 [http-nio-8625-exec-8] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 02:24:33
+Found line: 2951
+Context:
+2022-02-03 02:24:33.895 [http-nio-8625-exec-4] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 02:24:33
+Found line: 2952
+Context:
+2022-02-03 02:24:33.980 [http-nio-8625-exec-5] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 02:24:34
+Found line: 2953
+Context:
+2022-02-03 02:24:34.001 [http-nio-8625-exec-4] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 02:24:34
+Found line: 2954
+Context:
+2022-02-03 02:24:34.085 [http-nio-8625-exec-5] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 02:24:34
+Found line: 2955
+Context:
+2022-02-03 02:24:34.113 [http-nio-8625-exec-4] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 02:24:34
+Found line: 2956
+Context:
+2022-02-03 02:24:34.131 [http-nio-8625-exec-1] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 02:24:34
+Found line: 2957
+Context:
+2022-02-03 02:24:34.192 [http-nio-8625-exec-5] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 02:24:34
+Found line: 2958
+Context:
+2022-02-03 02:24:34.242 [http-nio-8625-exec-1] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 02:24:34
+Found line: 2959
+Context:
+2022-02-03 02:24:34.353 [http-nio-8625-exec-1] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 02:24:37
+Found line: 2960
+Context:
+2022-02-03 02:24:37.041 [http-nio-8625-exec-4] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 02:24:37
+Found line: 2961
+Context:
+2022-02-03 02:24:37.150 [http-nio-8625-exec-4] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 02:24:37
+Found line: 2962
+Context:
+2022-02-03 02:24:37.259 [http-nio-8625-exec-4] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 02:24:37
+Found line: 2963
+Context:
+2022-02-03 02:24:37.285 [http-nio-8625-exec-7] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 02:24:37
+Found line: 2964
+Context:
+2022-02-03 02:24:37.391 [http-nio-8625-exec-7] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 02:24:37
+Found line: 2965
+Context:
+2022-02-03 02:24:37.496 [http-nio-8625-exec-7] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 02:26:33
+Found line: 2970
+Context:
+2022-02-03 02:26:33.402 [http-nio-8625-exec-6] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 02:36:12
+Found line: 3278
+Context:
+2022-02-03 02:36:12.353 [http-nio-8625-exec-7] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 02:36:33
+Found line: 3566
+Context:
+2022-02-03 02:36:33.810 [http-nio-8625-exec-5] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 02:36:39
+Found line: 3573
+Context:
+2022-02-03 02:36:39.047 [http-nio-8625-exec-1] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 02:46:34
+Found line: 3921
+Context:
+2022-02-03 02:46:34.064 [http-nio-8625-exec-5] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 02:48:11
+Found line: 4195
+Context:
+2022-02-03 02:48:11.652 [http-nio-8625-exec-3] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 02:56:33
+Found line: 4228
+Context:
+2022-02-03 02:56:33.894 [http-nio-8625-exec-2] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 02:56:35
+Found line: 4530
+Context:
+2022-02-03 02:56:35.969 [http-nio-8625-exec-9] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 03:06:36
+Found line: 4591
+Context:
+2022-02-03 03:06:36.118 [http-nio-8625-exec-9] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 03:16:36
+Found line: 4927
+Context:
+2022-02-03 03:16:36.240 [http-nio-8625-exec-6] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 03:18:05
+Found line: 5215
+Context:
+2022-02-03 03:18:05.275 [http-nio-8625-exec-6] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 03:25:23
+Found line: 5272
+Context:
+2022-02-03 03:25:23.357 [http-nio-8625-exec-10] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 03:25:23
+Found line: 5273
+Context:
+2022-02-03 03:25:23.465 [http-nio-8625-exec-10] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 03:25:23
+Found line: 5274
+Context:
+2022-02-03 03:25:23.571 [http-nio-8625-exec-10] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 03:25:23
+Found line: 5275
+Context:
+2022-02-03 03:25:23.622 [http-nio-8625-exec-9] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 03:25:23
+Found line: 5276
+Context:
+2022-02-03 03:25:23.731 [http-nio-8625-exec-9] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 03:25:23
+Found line: 5277
+Context:
+2022-02-03 03:25:23.845 [http-nio-8625-exec-9] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 03:25:42
+Found line: 5278
+Context:
+2022-02-03 03:25:42.881 [http-nio-8625-exec-2] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 03:25:42
+Found line: 5279
+Context:
+2022-02-03 03:25:42.987 [http-nio-8625-exec-2] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 03:25:43
+Found line: 5280
+Context:
+2022-02-03 03:25:43.097 [http-nio-8625-exec-2] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 03:26:09
+Found line: 5281
+Context:
+2022-02-03 03:26:09.957 [http-nio-8625-exec-7] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 03:26:10
+Found line: 5282
+Context:
+2022-02-03 03:26:10.076 [http-nio-8625-exec-7] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 03:26:10
+Found line: 5283
+Context:
+2022-02-03 03:26:10.194 [http-nio-8625-exec-7] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 03:26:10
+Found line: 5284
+Context:
+2022-02-03 03:26:10.234 [http-nio-8625-exec-8] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 03:26:10
+Found line: 5285
+Context:
+2022-02-03 03:26:10.345 [http-nio-8625-exec-8] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 03:26:10
+Found line: 5286
+Context:
+2022-02-03 03:26:10.461 [http-nio-8625-exec-8] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 03:26:36
+Found line: 5319
+Context:
+2022-02-03 03:26:36.174 [http-nio-8625-exec-3] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 03:26:36
+Found line: 5593
+Context:
+2022-02-03 03:26:36.381 [http-nio-8625-exec-3] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 03:26:50
+Found line: 5594
+Context:
+2022-02-03 03:26:50.463 [http-nio-8625-exec-3] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 03:26:50
+Found line: 5595
+Context:
+2022-02-03 03:26:50.568 [http-nio-8625-exec-3] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 03:26:50
+Found line: 5596
+Context:
+2022-02-03 03:26:50.676 [http-nio-8625-exec-3] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 03:26:50
+Found line: 5597
+Context:
+2022-02-03 03:26:50.690 [http-nio-8625-exec-5] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 03:26:50
+Found line: 5598
+Context:
+2022-02-03 03:26:50.804 [http-nio-8625-exec-5] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 03:26:50
+Found line: 5599
+Context:
+2022-02-03 03:26:50.912 [http-nio-8625-exec-5] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 03:26:50
+Found line: 5600
+Context:
+2022-02-03 03:26:50.965 [http-nio-8625-exec-10] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 03:26:51
+Found line: 5601
+Context:
+2022-02-03 03:26:51.077 [http-nio-8625-exec-10] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 03:26:51
+Found line: 5602
+Context:
+2022-02-03 03:26:51.181 [http-nio-8625-exec-10] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 03:26:58
+Found line: 5603
+Context:
+2022-02-03 03:26:58.443 [http-nio-8625-exec-3] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 03:26:58
+Found line: 5604
+Context:
+2022-02-03 03:26:58.552 [http-nio-8625-exec-3] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 03:26:58
+Found line: 5605
+Context:
+2022-02-03 03:26:58.659 [http-nio-8625-exec-3] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 03:36:36
+Found line: 5666
+Context:
+2022-02-03 03:36:36.117 [http-nio-8625-exec-9] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 03:56:36
+Found line: 6028
+Context:
+2022-02-03 03:56:36.362 [http-nio-8625-exec-3] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 03:56:37
+Found line: 6330
+Context:
+2022-02-03 03:56:37.658 [http-nio-8625-exec-1] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 04:06:37
+Found line: 6363
+Context:
+2022-02-03 04:06:37.834 [http-nio-8625-exec-1] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 04:13:40
+Found line: 6671
+Context:
+2022-02-03 04:13:40.407 [http-nio-8625-exec-6] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+================================================================================
+File: ../../../eugene_okulik/data/logs/rpe-api-error.2022-02-03.2.log
+Found: 3
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 04:16:50
+Found line: 7
+Context:
+2022-02-03 04:16:50.290 [http-nio-8625-exec-7] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 04:21:52
+Found line: 301
+Context:
+2022-02-03 04:21:52.485 [http-nio-8625-exec-9] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 04:26:54
+Found line: 595
+Context:
+2022-02-03 04:26:54.753 [http-nio-8625-exec-4] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+================================================================================
+File: ../../../eugene_okulik/data/logs/rpe-api-error.2022-02-03.3.log
+Found: 106
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 04:31:03
+Found line: 145
+Context:
+2022-02-03 04:31:03.153 [http-nio-8625-exec-7] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 04:31:03
+Found line: 146
+Context:
+2022-02-03 04:31:03.534 [http-nio-8625-exec-7] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 04:31:03
+Found line: 147
+Context:
+2022-02-03 04:31:03.653 [http-nio-8625-exec-7] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 04:31:03
+Found line: 148
+Context:
+2022-02-03 04:31:03.708 [http-nio-8625-exec-4] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 04:31:03
+Found line: 149
+Context:
+2022-02-03 04:31:03.837 [http-nio-8625-exec-4] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 04:31:03
+Found line: 150
+Context:
+2022-02-03 04:31:03.973 [http-nio-8625-exec-4] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 04:31:04
+Found line: 151
+Context:
+2022-02-03 04:31:04.065 [http-nio-8625-exec-1] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 04:31:04
+Found line: 152
+Context:
+2022-02-03 04:31:04.184 [http-nio-8625-exec-1] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 04:31:04
+Found line: 153
+Context:
+2022-02-03 04:31:04.313 [http-nio-8625-exec-1] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 04:31:04
+Found line: 154
+Context:
+2022-02-03 04:31:04.385 [http-nio-8625-exec-10] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 04:31:04
+Found line: 155
+Context:
+2022-02-03 04:31:04.518 [http-nio-8625-exec-10] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 04:31:04
+Found line: 156
+Context:
+2022-02-03 04:31:04.649 [http-nio-8625-exec-10] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 04:46:41
+Found line: 191
+Context:
+2022-02-03 04:46:41.630 [http-nio-8625-exec-6] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 04:46:47
+Found line: 485
+Context:
+2022-02-03 04:46:47.618 [http-nio-8625-exec-4] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 04:56:41
+Found line: 833
+Context:
+2022-02-03 04:56:41.830 [http-nio-8625-exec-8] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 05:01:41
+Found line: 1141
+Context:
+2022-02-03 05:01:41.868 [http-nio-8625-exec-6] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 05:07:55
+Found line: 1457
+Context:
+2022-02-03 05:07:55.735 [http-nio-8625-exec-3] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 05:16:52
+Found line: 1518
+Context:
+2022-02-03 05:16:52.690 [http-nio-8625-exec-2] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 05:17:40
+Found line: 1792
+Context:
+2022-02-03 05:17:40.962 [http-nio-8625-exec-7] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 05:21:52
+Found line: 1825
+Context:
+2022-02-03 05:21:52.725 [http-nio-8625-exec-9] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 05:26:52
+Found line: 2133
+Context:
+2022-02-03 05:26:52.808 [http-nio-8625-exec-3] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 05:36:53
+Found line: 2481
+Context:
+2022-02-03 05:36:53.470 [http-nio-8625-exec-4] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 05:46:52
+Found line: 2815
+Context:
+2022-02-03 05:46:52.867 [http-nio-8625-exec-7] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 05:47:16
+Found line: 3089
+Context:
+2022-02-03 05:47:16.045 [http-nio-8625-exec-9] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:01:53
+Found line: 3150
+Context:
+2022-02-03 06:01:53.011 [http-nio-8625-exec-3] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:15:38
+Found line: 3486
+Context:
+2022-02-03 06:15:38.600 [http-nio-8625-exec-1] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:21:53
+Found line: 3806
+Context:
+2022-02-03 06:21:53.494 [http-nio-8625-exec-10] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:26:53
+Found line: 4142
+Context:
+2022-02-03 06:26:53.702 [http-nio-8625-exec-2] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:36:53
+Found line: 4462
+Context:
+2022-02-03 06:36:53.590 [http-nio-8625-exec-5] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:38:51
+Found line: 4764
+Context:
+2022-02-03 06:38:51.048 [http-nio-8625-exec-5] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:40:10
+Found line: 4765
+Context:
+2022-02-03 06:40:10.625 [http-nio-8625-exec-8] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:40:10
+Found line: 4766
+Context:
+2022-02-03 06:40:10.733 [http-nio-8625-exec-8] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:40:10
+Found line: 4767
+Context:
+2022-02-03 06:40:10.840 [http-nio-8625-exec-8] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:40:10
+Found line: 4768
+Context:
+2022-02-03 06:40:10.860 [http-nio-8625-exec-4] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:40:10
+Found line: 4769
+Context:
+2022-02-03 06:40:10.965 [http-nio-8625-exec-4] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:40:11
+Found line: 4770
+Context:
+2022-02-03 06:40:11.076 [http-nio-8625-exec-4] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:40:36
+Found line: 4771
+Context:
+2022-02-03 06:40:36.281 [http-nio-8625-exec-7] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:40:36
+Found line: 4772
+Context:
+2022-02-03 06:40:36.391 [http-nio-8625-exec-7] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:40:36
+Found line: 4773
+Context:
+2022-02-03 06:40:36.513 [http-nio-8625-exec-7] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:45:05
+Found line: 4802
+Context:
+2022-02-03 06:45:05.887 [http-nio-8625-exec-7] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:45:05
+Found line: 4803
+Context:
+2022-02-03 06:45:05.995 [http-nio-8625-exec-7] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:45:06
+Found line: 4804
+Context:
+2022-02-03 06:45:06.107 [http-nio-8625-exec-7] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:45:10
+Found line: 4805
+Context:
+2022-02-03 06:45:10.054 [http-nio-8625-exec-4] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:45:10
+Found line: 4806
+Context:
+2022-02-03 06:45:10.160 [http-nio-8625-exec-4] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:45:10
+Found line: 4807
+Context:
+2022-02-03 06:45:10.266 [http-nio-8625-exec-4] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:45:10
+Found line: 4808
+Context:
+2022-02-03 06:45:10.298 [http-nio-8625-exec-6] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:45:10
+Found line: 4809
+Context:
+2022-02-03 06:45:10.405 [http-nio-8625-exec-6] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:45:10
+Found line: 4810
+Context:
+2022-02-03 06:45:10.511 [http-nio-8625-exec-6] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:45:16
+Found line: 4811
+Context:
+2022-02-03 06:45:16.396 [http-nio-8625-exec-2] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:45:16
+Found line: 4812
+Context:
+2022-02-03 06:45:16.507 [http-nio-8625-exec-2] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:45:16
+Found line: 4813
+Context:
+2022-02-03 06:45:16.617 [http-nio-8625-exec-2] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:45:52
+Found line: 4814
+Context:
+2022-02-03 06:45:52.266 [http-nio-8625-exec-7] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:45:52
+Found line: 4815
+Context:
+2022-02-03 06:45:52.375 [http-nio-8625-exec-7] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:45:52
+Found line: 4816
+Context:
+2022-02-03 06:45:52.493 [http-nio-8625-exec-7] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:45:52
+Found line: 4817
+Context:
+2022-02-03 06:45:52.535 [http-nio-8625-exec-3] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:45:52
+Found line: 4818
+Context:
+2022-02-03 06:45:52.654 [http-nio-8625-exec-3] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:45:52
+Found line: 4819
+Context:
+2022-02-03 06:45:52.762 [http-nio-8625-exec-3] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:46:04
+Found line: 4820
+Context:
+2022-02-03 06:46:04.871 [http-nio-8625-exec-8] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:46:04
+Found line: 4821
+Context:
+2022-02-03 06:46:04.979 [http-nio-8625-exec-8] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:46:05
+Found line: 4822
+Context:
+2022-02-03 06:46:05.087 [http-nio-8625-exec-8] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:46:05
+Found line: 4823
+Context:
+2022-02-03 06:46:05.108 [http-nio-8625-exec-2] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:46:05
+Found line: 4824
+Context:
+2022-02-03 06:46:05.217 [http-nio-8625-exec-2] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:46:05
+Found line: 4825
+Context:
+2022-02-03 06:46:05.321 [http-nio-8625-exec-2] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:46:53
+Found line: 4858
+Context:
+2022-02-03 06:46:53.608 [http-nio-8625-exec-1] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:47:04
+Found line: 5132
+Context:
+2022-02-03 06:47:04.299 [http-nio-8625-exec-6] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:47:04
+Found line: 5133
+Context:
+2022-02-03 06:47:04.414 [http-nio-8625-exec-6] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:47:04
+Found line: 5134
+Context:
+2022-02-03 06:47:04.518 [http-nio-8625-exec-6] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:47:11
+Found line: 5135
+Context:
+2022-02-03 06:47:11.098 [http-nio-8625-exec-4] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:47:11
+Found line: 5136
+Context:
+2022-02-03 06:47:11.210 [http-nio-8625-exec-4] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:47:11
+Found line: 5137
+Context:
+2022-02-03 06:47:11.316 [http-nio-8625-exec-4] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:47:19
+Found line: 5138
+Context:
+2022-02-03 06:47:19.524 [http-nio-8625-exec-7] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:47:19
+Found line: 5139
+Context:
+2022-02-03 06:47:19.631 [http-nio-8625-exec-7] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:47:19
+Found line: 5140
+Context:
+2022-02-03 06:47:19.739 [http-nio-8625-exec-7] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:47:19
+Found line: 5141
+Context:
+2022-02-03 06:47:19.757 [http-nio-8625-exec-1] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:47:19
+Found line: 5142
+Context:
+2022-02-03 06:47:19.862 [http-nio-8625-exec-1] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:47:19
+Found line: 5143
+Context:
+2022-02-03 06:47:19.967 [http-nio-8625-exec-1] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:48:09
+Found line: 5144
+Context:
+2022-02-03 06:48:09.263 [http-nio-8625-exec-6] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:48:09
+Found line: 5145
+Context:
+2022-02-03 06:48:09.369 [http-nio-8625-exec-6] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:48:09
+Found line: 5146
+Context:
+2022-02-03 06:48:09.475 [http-nio-8625-exec-6] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:48:09
+Found line: 5147
+Context:
+2022-02-03 06:48:09.493 [http-nio-8625-exec-5] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:48:09
+Found line: 5148
+Context:
+2022-02-03 06:48:09.603 [http-nio-8625-exec-5] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:48:09
+Found line: 5149
+Context:
+2022-02-03 06:48:09.708 [http-nio-8625-exec-5] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:48:14
+Found line: 5150
+Context:
+2022-02-03 06:48:14.556 [http-nio-8625-exec-1] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:48:14
+Found line: 5151
+Context:
+2022-02-03 06:48:14.663 [http-nio-8625-exec-1] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:48:14
+Found line: 5152
+Context:
+2022-02-03 06:48:14.773 [http-nio-8625-exec-1] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:48:22
+Found line: 5153
+Context:
+2022-02-03 06:48:22.089 [http-nio-8625-exec-9] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:48:22
+Found line: 5154
+Context:
+2022-02-03 06:48:22.198 [http-nio-8625-exec-9] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:48:22
+Found line: 5155
+Context:
+2022-02-03 06:48:22.309 [http-nio-8625-exec-9] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:48:22
+Found line: 5156
+Context:
+2022-02-03 06:48:22.331 [http-nio-8625-exec-3] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:48:22
+Found line: 5157
+Context:
+2022-02-03 06:48:22.437 [http-nio-8625-exec-3] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:48:22
+Found line: 5158
+Context:
+2022-02-03 06:48:22.545 [http-nio-8625-exec-3] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:48:34
+Found line: 5159
+Context:
+2022-02-03 06:48:34.221 [http-nio-8625-exec-8] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:48:34
+Found line: 5160
+Context:
+2022-02-03 06:48:34.332 [http-nio-8625-exec-8] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:48:34
+Found line: 5161
+Context:
+2022-02-03 06:48:34.437 [http-nio-8625-exec-8] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:48:34
+Found line: 5162
+Context:
+2022-02-03 06:48:34.450 [http-nio-8625-exec-5] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:48:34
+Found line: 5163
+Context:
+2022-02-03 06:48:34.557 [http-nio-8625-exec-5] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:48:34
+Found line: 5164
+Context:
+2022-02-03 06:48:34.665 [http-nio-8625-exec-5] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:49:19
+Found line: 5165
+Context:
+2022-02-03 06:49:19.230 [http-nio-8625-exec-1] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:49:19
+Found line: 5166
+Context:
+2022-02-03 06:49:19.344 [http-nio-8625-exec-1] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:49:19
+Found line: 5167
+Context:
+2022-02-03 06:49:19.450 [http-nio-8625-exec-1] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:49:19
+Found line: 5168
+Context:
+2022-02-03 06:49:19.937 [http-nio-8625-exec-7] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:49:20
+Found line: 5169
+Context:
+2022-02-03 06:49:20.059 [http-nio-8625-exec-7] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:49:20
+Found line: 5170
+Context:
+2022-02-03 06:49:20.168 [http-nio-8625-exec-7] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 06:56:53
+Found line: 5231
+Context:
+2022-02-03 06:56:53.620 [http-nio-8625-exec-2] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 07:01:53
+Found line: 5509
+Context:
+2022-02-03 07:01:53.636 [http-nio-8625-exec-9] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 07:12:24
+Found line: 5845
+Context:
+2022-02-03 07:12:24.492 [http-nio-8625-exec-7] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+================================================================================
+File: ../../../eugene_okulik/data/logs/rpe-api-error.2022-02-03.4.log
+Found: 2
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 07:17:46
+Found line: 151
+Context:
+2022-02-03 07:17:46.460 [http-nio-8625-exec-4] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 07:22:18
+Found line: 445
+Context:
+2022-02-03 07:22:18.454 [http-nio-8625-exec-5] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+================================================================================
+File: ../../../eugene_okulik/data/logs/rpe-api-error.2022-02-03.5.log
+Found: 31
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 07:27:00
+Found line: 7
+Context:
+2022-02-03 07:27:00.683 [http-nio-8625-exec-1] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 07:41:09
+Found line: 351
+Context:
+2022-02-03 07:41:09.087 [http-nio-8625-exec-2] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 07:41:09
+Found line: 352
+Context:
+2022-02-03 07:41:09.199 [http-nio-8625-exec-2] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 07:41:09
+Found line: 353
+Context:
+2022-02-03 07:41:09.305 [http-nio-8625-exec-2] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 07:41:17
+Found line: 354
+Context:
+2022-02-03 07:41:17.355 [http-nio-8625-exec-1] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 07:41:17
+Found line: 355
+Context:
+2022-02-03 07:41:17.463 [http-nio-8625-exec-1] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 07:41:17
+Found line: 356
+Context:
+2022-02-03 07:41:17.574 [http-nio-8625-exec-1] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 07:41:17
+Found line: 357
+Context:
+2022-02-03 07:41:17.592 [http-nio-8625-exec-9] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 07:41:17
+Found line: 358
+Context:
+2022-02-03 07:41:17.703 [http-nio-8625-exec-9] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 07:41:17
+Found line: 359
+Context:
+2022-02-03 07:41:17.810 [http-nio-8625-exec-9] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 07:44:19
+Found line: 388
+Context:
+2022-02-03 07:44:19.215 [http-nio-8625-exec-1] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 07:44:19
+Found line: 389
+Context:
+2022-02-03 07:44:19.323 [http-nio-8625-exec-1] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 07:44:19
+Found line: 390
+Context:
+2022-02-03 07:44:19.431 [http-nio-8625-exec-1] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 07:44:19
+Found line: 391
+Context:
+2022-02-03 07:44:19.451 [http-nio-8625-exec-5] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 07:44:19
+Found line: 392
+Context:
+2022-02-03 07:44:19.557 [http-nio-8625-exec-5] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 07:44:19
+Found line: 393
+Context:
+2022-02-03 07:44:19.665 [http-nio-8625-exec-5] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 07:44:38
+Found line: 394
+Context:
+2022-02-03 07:44:38.501 [http-nio-8625-exec-10] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 07:44:38
+Found line: 395
+Context:
+2022-02-03 07:44:38.612 [http-nio-8625-exec-10] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 07:44:38
+Found line: 396
+Context:
+2022-02-03 07:44:38.719 [http-nio-8625-exec-10] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 07:44:41
+Found line: 397
+Context:
+2022-02-03 07:44:41.540 [http-nio-8625-exec-8] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 07:44:41
+Found line: 398
+Context:
+2022-02-03 07:44:41.655 [http-nio-8625-exec-8] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 07:44:41
+Found line: 399
+Context:
+2022-02-03 07:44:41.770 [http-nio-8625-exec-8] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 07:47:23
+Found line: 406
+Context:
+2022-02-03 07:47:23.996 [http-nio-8625-exec-6] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 07:50:24
+Found line: 698
+Context:
+2022-02-03 07:50:24.918 [http-nio-8625-exec-9] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 07:57:24
+Found line: 1004
+Context:
+2022-02-03 07:57:24.386 [http-nio-8625-exec-10] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 08:07:24
+Found line: 1366
+Context:
+2022-02-03 08:07:24.930 [http-nio-8625-exec-8] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 08:22:24
+Found line: 1728
+Context:
+2022-02-03 08:22:24.999 [http-nio-8625-exec-4] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 08:27:24
+Found line: 2034
+Context:
+2022-02-03 08:27:24.990 [http-nio-8625-exec-9] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 08:37:25
+Found line: 2340
+Context:
+2022-02-03 08:37:25.131 [http-nio-8625-exec-10] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 08:37:27
+Found line: 2642
+Context:
+2022-02-03 08:37:27.570 [http-nio-8625-exec-5] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 08:44:22
+Found line: 2649
+Context:
+2022-02-03 08:44:22.631 [http-nio-8625-exec-5] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+================================================================================
+File: ../../../eugene_okulik/data/logs/rpe-api-error.2022-02-03.6.log
+Found: 1
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 08:51:44
+Found line: 7
+Context:
+2022-02-03 08:51:44.599 [http-nio-8625-exec-6] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+================================================================================
+File: ../../../eugene_okulik/data/logs/rpe-api-error.2022-02-03.7.log
+Found: 1
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 09:00:41
+Found line: 1
+Context:
+2022-02-03 09:00:41.672 [http-nio-8625-exec-5] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+================================================================================
+File: ../../../eugene_okulik/data/logs/rpe-api-error.2022-02-03.8.log
+Found: 1
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 09:07:31
+Found line: 7
+Context:
+2022-02-03 09:07:31.261 [http-nio-8625-exec-1] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
+================================================================================
+File: ../../../eugene_okulik/data/logs/rpe-api-error.2022-02-03.9.log
+Found: 2
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 09:07:32
+Found line: 141
+Context:
+2022-02-03 09:07:32.360 [http-nio-8625-exec-5] WARN i.k.i.repository.FunctionsRepository - Sql query answer
+--------------------------------------------------------------------------------
+Warn time: 2022-02-03 09:08:00
+Found line: 146
+Context:
+2022-02-03 09:08:00.387 [http-nio-8625-exec-4] WARN n.g.e.SimpleDataFetcherExceptionHandler - Exception while fetching
