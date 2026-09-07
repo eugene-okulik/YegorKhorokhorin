@@ -144,8 +144,8 @@ def test_get_an_object_by_id(post_an_object_for_test_get_an_object_by_id,
     assert response.status_code == 200, 'Status code is incorrect'
     print(response.status_code)
     response_body = response.json()
-    assert (int(response_body['id']) ==
-            post_an_object_for_test_get_an_object_by_id)
+    assert (int(response_body['id'])
+            == post_an_object_for_test_get_an_object_by_id)
     print(response_body)
 
 
