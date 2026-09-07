@@ -16,17 +16,13 @@ def before_testing_after():
     print('after test')
 
 
-@pytest.mark.parametrize('body', [{
-        "name": "egor",
-        "data": {"color": "white", "size": "big"}
-    }, {
-        "name": "Eduard",
-        "data": {"color": "black", "size": "small"}
-    }, {
-        "name": "Edward",
-        "data": {"color": "red", "size": "medium"}
-    }])
-def test_post_of_new_object(body, start_testing_completed, before_testing_after):
+@pytest.mark.parametrize('body', [
+    {"name": "egor", "data": {"color": "white", "size": "big"}},
+    {"name": "Eduard", "data": {"color": "black", "size": "small"}},
+    {"name": "Edward", "data": {"color": "red", "size": "medium"}}
+])
+def test_post_of_new_object(body,
+                            start_testing_completed, before_testing_after):
     headers = {'Content-Type': 'application/json'}
     response = requests.post(
         'http://objapi.course.qa-practice.com/object',
@@ -56,13 +52,15 @@ def post_an_object():
     print(response.json())
     object_id = response.json()['id']
     yield object_id
-    response = requests.get(f'http://objapi.course.qa-practice.com/object/{object_id}')
+    response = requests.get(f'http://objapi.course.qa-practice.com/object/'
+                            f'{object_id}')
     assert response.status_code == 200, 'Status code is incorrect'
     print(response.status_code)
     response_body = response.json()
     assert int(response_body['id']) == object_id
     print(response_body)
-    response = requests.delete(f'http://objapi.course.qa-practice.com/object/{object_id}')
+    response = requests.delete(f'http://objapi.course.qa-practice.com/object/'
+                               f'{object_id}')
     assert response.status_code == 200, 'Status code is incorrect'
     print(response.status_code, "Объект удален")
     response = requests.get(
@@ -73,7 +71,8 @@ def post_an_object():
 
 
 @pytest.mark.critical
-def test_put_an_object(post_an_object, start_testing_completed, before_testing_after):
+def test_put_an_object(post_an_object,
+                       start_testing_completed, before_testing_after):
     body = {
         "name": "Edward",
         "data": {"color": "black", "size": "small"}
@@ -92,7 +91,8 @@ def test_put_an_object(post_an_object, start_testing_completed, before_testing_a
 
 
 @pytest.mark.medium
-def test_patch_an_object(post_an_object, start_testing_completed, before_testing_after):
+def test_patch_an_object(post_an_object,
+                         start_testing_completed, before_testing_after):
     body = {
         "name": "Eduard"
     }
@@ -126,7 +126,8 @@ def post_an_object_for_test_get_an_object_by_id():
     print(response.json())
     object_id = response.json()['id']
     yield object_id
-    response = requests.delete(f'http://objapi.course.qa-practice.com/object/{object_id}')
+    response = requests.delete(f'http://objapi.course.qa-practice.com/object/'
+                               f'{object_id}')
     assert response.status_code == 200, 'Status code is incorrect'
     print(response.status_code, "Объект удален")
     response = requests.get(
@@ -143,7 +144,8 @@ def test_get_an_object_by_id(post_an_object_for_test_get_an_object_by_id,
     assert response.status_code == 200, 'Status code is incorrect'
     print(response.status_code)
     response_body = response.json()
-    assert int(response_body['id']) == post_an_object_for_test_get_an_object_by_id
+    assert (int(response_body['id']) ==
+            post_an_object_for_test_get_an_object_by_id)
     print(response_body)
 
 
@@ -165,13 +167,16 @@ def post_an_object_for_test_deleting():
     object_id = response.json()['id']
     yield object_id
     response = requests.get(
-        f'http://objapi.course.qa-practice.com/object/{object_id}'
+        f'http://objapi.course.qa-practice.com/object/'
+        f'{object_id}'
     )
     assert response.status_code == 404, 'Status code is incorrect'
     print(response.status_code, 'Объект не найден')
 
 
-def test_delete_an_object(post_an_object_for_test_deleting, start_testing_completed, before_testing_after):
-    response = requests.delete(f'http://objapi.course.qa-practice.com/object/{post_an_object_for_test_deleting}')
+def test_delete_an_object(post_an_object_for_test_deleting,
+                          start_testing_completed, before_testing_after):
+    response = requests.delete(f'http://objapi.course.qa-practice.com/object/'
+                               f'{post_an_object_for_test_deleting}')
     assert response.status_code == 200, 'Status code is incorrect'
     print(response.status_code, 'Объект удален')
