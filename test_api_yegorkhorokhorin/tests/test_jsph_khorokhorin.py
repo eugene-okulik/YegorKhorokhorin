@@ -1,9 +1,10 @@
 import pytest
 
 TEST_BODY = [
-        {"name": "egor", "data": {"color": "white", "size": "big"}},
-        {"name": "Eduard", "data": {"color": "black", "size": "small"}},
-        {"name": "Edward", "data": {"color": "red", "size": "medium"}}]
+    {"name": "egor", "data": {"color": "white", "size": "big"}},
+    {"name": "Eduard", "data": {"color": "black", "size": "small"}},
+    {"name": "Edward", "data": {"color": "red", "size": "medium"}}
+]
 
 TEST_BODY_FOR_PUT = [
     {'name': 'Object for put',
